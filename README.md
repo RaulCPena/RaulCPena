@@ -70,12 +70,6 @@ Outside the studio:
   <img src="https://skillicons.dev/icons?i=go,python,ts,swift,kubernetes,docker,linux,ansible,githubactions" alt="tech stack icons"/>
 </p>
 
-## GitHub stats
-
-<p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=RaulCPena&show_icons=true&hide_title=true&theme=default&hide_border=true" alt="Raul's GitHub stats"/>
-</p>
-
 ---
 
 <p align="center">Georgetown, TX · <a href="https://www.raulcpena.com">raulcpena.com</a></p>
