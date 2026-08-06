@@ -2,7 +2,7 @@
 
 <p align="center">
   <em>I ran a real estate brokerage for fifteen years before I wrote my first line of production code.</em><br/>
-  Senior Software Engineer at Dell (HashiCorp Vault, DevOps). Solo iOS developer at night. Georgetown, TX.
+  Senior Software Engineer at Dell (IBM Vault, DevSecOps). Solo iOS developer at night. Georgetown, TX.
 </p>
 
 <p align="center">
@@ -12,9 +12,9 @@
 
 ---
 
-### About
+## About
 
-I joined the Air Force out of high school. Honor Guard and Security, 1994 to 1997.
+I joined the Air Force out of high school. United States Air Force Honor Guard and Security Police.
 
 After that I went back to San Antonio and worked in sales until I earned my real estate license. That license is where my real journey started. I became a broker and built Cantera Realty into one of the top real estate companies in San Antonio, with 25 agents and 5 employees. I was the CEO and the CFO and whatever else the day needed. I also built a fully paperless workflow for my agents years before the rest of the market got there, so they could work from anywhere instead of driving to a desk in an office. Along the way I earned national recognition from NAHREP and served on multiple MLS boards in San Antonio.
 
@@ -35,18 +35,26 @@ Then I enrolled in a bootcamp and moved my RV to San Antonio while my family sta
 
 More cohorts after that. Then a company called TalentPath trained me further and placed me in a contract role at Dell Technologies. When the contract ended I got hired on, and that happened because I networked with everyone I met and found the role myself.
 
-At Dell I spent a couple of years owning the vulnerabilities for every image the company ships. Then I moved to the HashiCorp Vault team. That work is support tickets and Linux machines across non-prod and prod, and it is where I picked up Go, since Go is what the Vault binary is built on. IBM acquired HashiCorp, so now I work with them too.
+At Dell I spent a couple of years owning the vulnerabilities for every image the company ships. Then I moved to the Vault team, where the work is support tickets and Linux machines across non-prod and prod, and where I picked up Go, since Go is what the Vault binary is built on. IBM acquired HashiCorp along the way, so it is IBM Vault now and I work in DevSecOps.
 
 </details>
 
-### What I'm building
+## What I'm building
 
-- **[PayoffPilot](https://www.raulcpena.com/work)**: a debt payoff planner. Nine months of nights and weekends, now on the App Store.
-- **[FeastMark](https://www.raulcpena.com/work)** and **ReelTalk**: small privacy-first iOS apps shipped under [Big Beard Apps](https://bigbeardapps.com).
-- **[BrokerMade](https://www.raulcpena.com/work)**: conversion-focused site templates for real estate agents, built from fifteen years of knowing what actually gets a listing seen.
-- **[raulcpena.com](https://www.raulcpena.com)**: my site and blog. This README syncs itself with that blog (see below).
+Everything below ships under **[Big Beard Apps](https://bigbeardapps.com)**, my iOS studio.
 
-### Latest from the blog
+- **[PayoffPilot](https://bigbeardapps.com/payoffpilot/)**: plan your way out of debt, comparing Snowball and Avalanche against your real numbers. On the App Store after nine months of nights and weekends.
+- **[Feastmark](https://bigbeardapps.com/feastmark/)**: turn recipe videos into your personal cookbook, one tap from Instagram, TikTok, or YouTube. Coming soon.
+- **[ReelTalk](https://bigbeardapps.com/reeltalk/)**: fishing pun stickers for iMessage, thirty hand-made originals starring a bass. Approved by Apple, releasing September 1, 2026.
+- **[Gunmark](https://bigbeardapps.com/gunmark/)**: your armory documented, every gun and mod and receipt and tax stamp. Beta signups open.
+
+Outside the studio:
+
+- **[BrokerMade](https://brokermade.com)**: real estate websites, built by a Texas broker.
+- **Cantera Realty**: the brokerage I still own in Texas.
+- **[My site and blog](https://www.raulcpena.com)**: where I write about all of this. The list below syncs itself from it.
+
+## Latest from the blog
 
 <!-- BLOG-POST-LIST:START -->
 - [Nine Months of Nights and Weekends Ends With an App Store Link](https://raulcpena.com/blog/nine-months-of-nights-and-weekends-ends-with-an-app-store-link) · Aug 4, 2026
@@ -56,15 +64,13 @@ At Dell I spent a couple of years owning the vulnerabilities for every image the
 - [Learning to Code at 40: What No Bootcamp Tells You](https://raulcpena.com/blog/learning-to-code-at-40-what-no-bootcamp-tells-you) · Jul 30, 2026
 <!-- BLOG-POST-LIST:END -->
 
-<sub>Updated automatically by <a href="scripts/update-readme.js">scripts/update-readme.js</a>.</sub>
-
-### Tech stack
+## Tech stack
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=go,python,ts,swift,kubernetes,docker,linux,ansible,githubactions" alt="tech stack icons"/>
 </p>
 
-### GitHub stats
+## GitHub stats
 
 <p align="left">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=RaulCPena&show_icons=true&hide_title=true&theme=default&hide_border=true" alt="Raul's GitHub stats"/>
@@ -72,4 +78,4 @@ At Dell I spent a couple of years owning the vulnerabilities for every image the
 
 ---
 
-<p align="center"><sub>Georgetown, TX · <a href="https://www.raulcpena.com">raulcpena.com</a></sub></p>
+<p align="center">Georgetown, TX · <a href="https://www.raulcpena.com">raulcpena.com</a></p>
