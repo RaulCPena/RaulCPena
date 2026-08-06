@@ -51,7 +51,7 @@ Everything below ships under **[Big Beard Apps](https://bigbeardapps.com)**, my 
 Outside the studio:
 
 - **[BrokerMade](https://brokermade.com)**: real estate websites, built by a Texas broker.
-- **Cantera Realty**: the brokerage I still own in Texas.
+- **[Cantera Realty](https://canterarealty.com)**: neighborhood guides, school data, and market numbers for Georgetown, Texas.
 - **[My site and blog](https://www.raulcpena.com)**: where I write about all of this. The list below syncs itself from it.
 
 ## Latest from the blog
