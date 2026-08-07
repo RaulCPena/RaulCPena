@@ -1,0 +1,36 @@
+name: Sync latest blog posts to README
+
+on:
+  schedule:
+    # Runs once a day at 13:00 UTC (~8am America/Chicago). Adjust as you like.
+    - cron: "0 13 * * *"
+  workflow_dispatch: {}   # lets you trigger it manually from the Actions tab
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v4
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+
+      - name: Update README from blog
+        run: node scripts/update-readme.mjs
+
+      - name: Commit changes if README moved
+        run: |
+          if git diff --quiet -- README.md; then
+            echo "No changes to commit."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "chore: sync latest blog posts to README"
+          git push
