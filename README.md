@@ -57,11 +57,11 @@ Outside the studio:
 ## Latest from the blog
 
 <!-- BLOG-POST-LIST:START -->
+- [I Wrote the Lesson Down on Day One. It Still Cost Me Twenty-Six Days.](https://raulcpena.com/blog/i-wrote-the-lesson-down-on-day-one/) · Aug 28, 2026
 - [Apple's Uploader Wanted an Icon Size That Doesn't Exist](https://raulcpena.com/blog/apples-uploader-wanted-an-icon-size-that-doesnt-exist/) · Aug 6, 2026
 - [Nine Months of Nights and Weekends Ends With an App Store Link](https://raulcpena.com/blog/nine-months-of-nights-and-weekends-ends-with-an-app-store-link/) · Aug 4, 2026
 - [The Upload Wasn't Slow. It Never Connected.](https://raulcpena.com/blog/the-upload-wasnt-slow-it-never-connected/) · Aug 3, 2026
 - [The Model Didn't Hallucinate. It Read the Wrong 2,000 Characters.](https://raulcpena.com/blog/the-model-read-the-wrong-2000-characters/) · Aug 2, 2026
-- [What Shipping With No Analytics Actually Costs](https://raulcpena.com/blog/what-shipping-with-no-analytics-actually-costs/) · Aug 1, 2026
 <!-- BLOG-POST-LIST:END -->
 
 ## Tech stack
