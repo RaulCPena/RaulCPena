@@ -1,10 +1,36 @@
 name: Sync latest blog posts to README
 
+# Triggered three ways, in order of how the README actually stays current:
+#
+#   1. repository_dispatch - RaulCPena/raulcpena-site-'s deploy workflow fires
+#      "blog-published" once the new post is verified live at raulcpena.com.
+#      This is the fast path: the README updates within about a minute of a
+#      post going up, instead of whenever the cron below happens to run.
+#   2. schedule - the daily backstop. Kept on purpose. It covers the cases the
+#      dispatch cannot: an expired README_SYNC_TOKEN, a site deploy that never
+#      reached this step, or a post published by editing the site repo outside
+#      the normal deploy path.
+#   3. workflow_dispatch - manual, from the Actions tab.
+#
+# GitHub's scheduler is best effort, not a guarantee. The 13:00 UTC run on
+# 2026-08-27 did not start until 22:40 UTC. That ~10 hour lag is the reason
+# path 1 exists; it is not a reason to delete path 2.
+
 on:
+  repository_dispatch:
+    types: [blog-published]
   schedule:
     # Runs once a day at 13:00 UTC (~8am America/Chicago). Adjust as you like.
     - cron: "0 13 * * *"
   workflow_dispatch: {}   # lets you trigger it manually from the Actions tab
+
+# The cron and a dispatch can land at the same time. This job is the only thing
+# that writes README.md, so serializing it is enough to keep the push below
+# from racing itself. Queue rather than cancel - a run takes well under a
+# minute, and a cancelled run is a sync that silently did not happen.
+concurrency:
+  group: update-readme
+  cancel-in-progress: false
 
 jobs:
   update-readme:
