@@ -57,8 +57,8 @@ Outside the studio:
 ## Latest from the blog
 
 <!-- BLOG-POST-LIST:START -->
-- [The Solo Dev Stack: How I Ship Four Apps While Working Full Time](https://raulcpena.com/blog/the-solo-dev-stack/) · Oct 27, 2026
 - [App Development Cost Explained: What You'll Really Pay (and Cheaper Alternatives)](https://raulcpena.com/blog/app-development-cost-explained/) · Oct 25, 2026
+- [The Solo Dev Stack: How I Ship Four Apps While Working Full Time](https://raulcpena.com/blog/the-solo-dev-stack/) · Oct 25, 2026
 - [How Feastmark Reads Recipes That Only Exist Out Loud](https://raulcpena.com/blog/how-feastmark-reads-recipes-that-only-exist-out-loud/) · Oct 22, 2026
 - [I Wrote the Lesson Down on Day One. It Still Cost Me Twenty-Six Days.](https://raulcpena.com/blog/i-wrote-the-lesson-down-on-day-one/) · Aug 28, 2026
 - [Apple's Uploader Wanted an Icon Size That Doesn't Exist](https://raulcpena.com/blog/apples-uploader-wanted-an-icon-size-that-doesnt-exist/) · Aug 6, 2026
