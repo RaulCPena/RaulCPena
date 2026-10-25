@@ -57,11 +57,11 @@ Outside the studio:
 ## Latest from the blog
 
 <!-- BLOG-POST-LIST:START -->
+- [App Development Cost Explained: What You'll Really Pay (and Cheaper Alternatives)](https://raulcpena.com/blog/app-development-cost-explained/) · Oct 25, 2026
 - [How Feastmark Reads Recipes That Only Exist Out Loud](https://raulcpena.com/blog/how-feastmark-reads-recipes-that-only-exist-out-loud/) · Oct 22, 2026
 - [I Wrote the Lesson Down on Day One. It Still Cost Me Twenty-Six Days.](https://raulcpena.com/blog/i-wrote-the-lesson-down-on-day-one/) · Aug 28, 2026
 - [Apple's Uploader Wanted an Icon Size That Doesn't Exist](https://raulcpena.com/blog/apples-uploader-wanted-an-icon-size-that-doesnt-exist/) · Aug 6, 2026
 - [Nine Months of Nights and Weekends Ends With an App Store Link](https://raulcpena.com/blog/nine-months-of-nights-and-weekends-ends-with-an-app-store-link/) · Aug 4, 2026
-- [The Upload Wasn't Slow. It Never Connected.](https://raulcpena.com/blog/the-upload-wasnt-slow-it-never-connected/) · Aug 3, 2026
 <!-- BLOG-POST-LIST:END -->
 
 ## Tech stack
