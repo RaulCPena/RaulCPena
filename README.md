@@ -60,7 +60,7 @@ Outside the studio:
 - [AI Subscription Fatigue: How to Decide Which AI Tools Are Worth Paying For](https://raulcpena.com/blog/ai-subscription-fatigue/) · Nov 3, 2026
 - [App Development Cost Explained: What You'll Really Pay (and Cheaper Alternatives)](https://raulcpena.com/blog/app-development-cost-explained/) · Oct 25, 2026
 - [The Solo Dev Stack: How I Ship Four Apps While Working Full Time](https://raulcpena.com/blog/the-solo-dev-stack/) · Oct 25, 2026
-- [How Feastmark Reads Recipes That Only Exist Out Loud](https://raulcpena.com/blog/how-feastmark-reads-recipes-that-only-exist-out-loud/) · Oct 22, 2026
+- [How FeastMark Reads Recipes That Only Exist Out Loud](https://raulcpena.com/blog/how-feastmark-reads-recipes-that-only-exist-out-loud/) · Oct 22, 2026
 - [I Wrote the Lesson Down on Day One. It Still Cost Me Twenty-Six Days.](https://raulcpena.com/blog/i-wrote-the-lesson-down-on-day-one/) · Aug 28, 2026
 <!-- BLOG-POST-LIST:END -->
 
